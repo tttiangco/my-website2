@@ -28,6 +28,10 @@ body {
     background-color: #f0f0f0;
 }
 
+h2 {
+    font-family: "Open Sans", sans-serif;
+}
+
 header {
     padding: 2.5%;
     background-image: linear-gradient(to right, #333, #ff0000);

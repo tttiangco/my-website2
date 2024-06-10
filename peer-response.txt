@@ -1,0 +1,8 @@
+- summary page had the nav bar in a different location compaired to the rest of the site
+(this was the only suggestion I got, from Maxwell Malocha)
+
+How I approached this suggestion and fixed it: Maxwell had made a really good point that my navigation bar was in a weird spot on my second page, and my first page, 
+stating that it wasn't consistent across the whole website which affects user experience. I approached this by just cutting and pasting the navigation bar code from the different
+areas on page 1 and 2 into the beginning, before the code for the body starts, separate from it. This allowed the nav bar to be placed consistenly across all the pages, sitting at the top, making it easier on the eyes 
+and for the user.
+
